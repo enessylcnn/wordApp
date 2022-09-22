@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "652500577162",
+    "project_id": "fir-kullaniciislemleri-a26e2",
+    "storage_bucket": "fir-kullaniciislemleri-a26e2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:652500577162:android:553c9d2eab9a0962e47673",
+        "android_client_info": {
+          "package_name": "com.example.firebase_authentication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "652500577162-ed7ji9lrob94nmi4nou62nlgttfk6p49.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZpdPxFFK78oHv5zfkNZD3tJ-e0zY3YIg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "652500577162-ed7ji9lrob94nmi4nou62nlgttfk6p49.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
